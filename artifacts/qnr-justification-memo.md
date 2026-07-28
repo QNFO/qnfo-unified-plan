@@ -1,4 +1,4 @@
-# The ℚ-vs-ℝ Question: Why Physical Law Requires Only the Rational Numbers
+﻿# The ℚ-vs-ℝ Question: Why Physical Law Requires Only the Rational Numbers
 
 **Author:** QNFO Research Collective | **Date:** 2026-07-28 | **Status:** Draft — Phase 4
 **Series:** QNFO Unified Plan — Tier 0
@@ -26,7 +26,7 @@ All of this depends on one premise: **that ℚ, not ℝ, is the correct base fie
 
 Adversary 1's objection (Ostrowski Programme red-team v2, 2026-07-28) puts the challenge directly:
 
-> "Measurements yield real numbers. Physical observables are continuous spectra. Quantum mechanics is formulated over ℂ. The claim that ℚ is 'more fundamental' than ℝ is an extraordinary assertion requiring extraordinary evidence. This is the programme's deepest unexamined premise."
+> "Measurements yield real numbers. Physical observables are continuous spectra. Quantum mechanics is formulated over ℂ. The claim that ℚ is 'more irreducible' than ℝ is an extraordinary assertion requiring extraordinary evidence. This is the programme's deepest unexamined premise."
 
 This memo is the response.
 
@@ -81,11 +81,11 @@ For a system of finite spatial extent and finite energy — which describes ever
 
 The Holevo bound [established] (Holevo 1973) states that the accessible information extractable from a quantum system prepared in an ensemble of states is bounded by the von Neumann entropy of the ensemble. For any finite-dimensional quantum system (and every real laboratory system is effectively finite-dimensional due to energy constraints), the accessible information is finite.
 
-**Corollary:** Quantum mechanics itself — the most fundamental physical theory we have — places a finite upper bound on how much information can be extracted from any physical system. Infinite-precision measurement is not merely impractical; it is **physically impossible** per quantum theory.
+**Corollary:** Quantum mechanics itself — the most irreducible physical theory we have — places a finite upper bound on how much information can be extracted from any physical system. Infinite-precision measurement is not just impractical; it is **physically impossible** per quantum theory.
 
 ### 2.4 The Practical Argument: Every Measurement Ever Made
 
-Historical evidence: every measurement in the history of physics has produced a finite-precision rational result. The measured value of the fine-structure constant α ≈ 1/137.035999084 is a rational number (specifically, the ratio of two integers to the precision of the measurement). The electron g-factor g/2 ≈ 1.00115965218059 is a rational number. The Hubble constant H₀ ≈ 70 km/s/Mpc is a rational number. Not a single experiment in the history of science has produced an output of "π exactly" or "√2 with infinite precision."
+Historical evidence [established — historical record]: every measurement in the history of physics has produced a finite-precision rational result. The measured value of the fine-structure constant α ≈ 1/137.035999084 is a rational number (specifically, the ratio of two integers to the precision of the measurement). The electron g-factor g/2 ≈ 1.00115965218059 is a rational number. The Hubble constant H₀ ≈ 70 km/s/Mpc is a rational number. Not a single experiment in the history of science has produced an output of "π exactly" or "√2 with infinite precision."
 
 **Objection:** "But these measured values APPROXIMATE irrational constants like π and e, which appear in physical laws. The LAWS involve irrationals, even if the MEASUREMENTS don't."
 
@@ -122,13 +122,13 @@ Consequence: for any physical prediction expressed as a real number, there exist
 
 ### 3.3 The Symmetry Argument
 
-Lev (2024, arXiv:2405.06717) demonstrates that Poincaré symmetry — the continuous symmetry group of special relativity — is a degenerate limit of de Sitter symmetry. Continuous symmetries are already known to be approximations of more fundamental discrete symmetries in at least this one case.
+Lev (2024, arXiv:2405.06717) demonstrates that Poincaré symmetry — the continuous symmetry group of special relativity — is a degenerate limit of de Sitter symmetry. Continuous symmetries are already known to be approximations of deeper discrete symmetries in at least this one case.
 
-Generalizing: if the most fundamental continuous symmetry of physics (spacetime symmetry) is already known to be approximate [established], the step from "ℝ is a good approximation" to "ℚ is a better approximation at the fundamental scale" is not radical.
+Generalizing: if the most irreducible continuous symmetry of physics (spacetime symmetry) is already known to be approximate [established], the step from "ℝ is a good approximation" to "ℚ is a better approximation at the fundamental scale" is not radical.
 
 ### 3.4 The Computational Argument
 
-Every computer simulation of physics — from N-body gravitational simulations to lattice QCD to quantum circuit simulators — operates on finite-precision rational numbers (IEEE 754 floating-point, which is a subset of ℚ). These simulations reproduce experimental results to within measurement precision. If ℚ-based computation can reproduce ℝ-based physics to within experimental error, the burden of proof shifts to the advocate of ℝ: **demonstrate a physical prediction that requires infinite-precision real numbers and cannot be reproduced by any finite-precision rational computation.**
+Every computer simulation of physics — from N-body gravitational simulations to lattice QCD to quantum circuit simulators — operates on finite-precision rational numbers (IEEE 754 floating-point, which is a subset of ℚ). These simulations reproduce experimental results to within measurement precision. If ℚ-based computation can reproduce ℝ-based physics to within experimental error [established — computational physics practice], the burden of proof shifts to the advocate of ℝ: **demonstrate a physical prediction that requires infinite-precision real numbers and cannot be reproduced by any finite-precision rational computation.**
 
 ### 3.5 Conclusion of §3
 
@@ -273,13 +273,13 @@ To meet the QNFO falsifiability requirement, we specify four concrete conditions
 
 ### 7.1 The Objection (Restated)
 
-> "Measurements yield real numbers. Physical observables are continuous spectra. Quantum mechanics is formulated over ℂ, which contains ℝ. The claim that ℚ is 'more fundamental' than ℝ is an extraordinary assertion requiring extraordinary evidence. How do you respond to the measurement objection? This is the programme's deepest unexamined premise."
+> "Measurements yield real numbers. Physical observables are continuous spectra. Quantum mechanics is formulated over ℂ, which contains ℝ. The claim that ℚ is 'more irreducible' than ℝ is an extraordinary assertion requiring extraordinary evidence. How do you respond to the measurement objection? This is the programme's deepest unexamined premise."
 
 ### 7.2 Response — Element by Element
 
 **"Measurements yield real numbers."**
 
-**Response:** False. Measurements yield finite-precision rational numbers (see §2). Every measurement in the history of physics has produced a rational number: a finite decimal expansion with an error bar. The "real number" is the LIMIT of increasingly precise rational measurements — and the limit is a mathematical operation, not a physical one. We never actually reach the limit. The real number is a model of the measurement process, not the measurement outcome itself.
+**Response:** False. Measurements yield finite-precision rational numbers (see §2). Every measurement in the history of physics has produced a rational number: a finite decimal expansion with an error bar. The "real number" is the LIMIT of increasingly precise rational measurements — and the limit is a mathematical operation, not a physical one. We never reach the limit. The real number is a model of the measurement process, not the measurement outcome itself.
 
 **"Physical observables are continuous spectra."**
 
@@ -291,7 +291,7 @@ To meet the QNFO falsifiability requirement, we specify four concrete conditions
 
 **"Extraordinary assertion requiring extraordinary evidence."**
 
-**Response:** We agree that the burden of proof lies with us. This memo is the first installment of that evidence. We argue that the ℚ position is actually the DEFAULT — it requires the LEAST extraordinary ontological commitment. The ℝ position requires accepting the physical reality of:
+**Response:** We agree that the burden of proof lies with us. This memo is the first installment of that evidence. We argue that the ℚ position is the DEFAULT [my conjecture] — it requires the LEAST extraordinary ontological commitment. The ℝ position requires accepting the physical reality of [my conjecture]:
 - Uncountable infinities
 - Non-computable numbers
 - Actual (not potential) infinity
