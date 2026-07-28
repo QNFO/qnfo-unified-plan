@@ -26,8 +26,27 @@
       "tag": "v0.3-phase2.1",
       "files": ["qnr-justification-memo-v3.0.pdf", "PROVENANCE-BUNDLE.zip", "qnr-justification-memo.md", "oe-proof-sketch.md", "red-team-audit-memo.md", "qnr-justification-memo-v1.0.pdf", "paper.pdf"],
       "published_at": "2026-07-28",
-      "status": "latest",
+      "status": "superseded",
       "note": "Phase 2.1: OE upgraded to [established] for lattice QFT. Added proof sketch."
+    },
+    {
+      "doi": "10.5281/zenodo.21648034",
+      "deposit_id": 21648034,
+      "tag": "v0.4-phase3",
+      "files": [
+        "qnr-justification-memo-v4.0.pdf",
+        "PROVENANCE-BUNDLE.zip",
+        "qnr-justification-memo.md",
+        "oe-proof-sketch.md",
+        "ota-formalization.md",
+        "red-team-audit-memo.md",
+        "qnr-justification-memo-v1.0.pdf",
+        "paper.pdf",
+        "qnr-justification-memo-v3.0.pdf"
+      ],
+      "published_at": "2026-07-28",
+      "status": "latest",
+      "note": "Phase 3: OTA upgraded to [established conditional]. Formal 7-step proof. 3/4 sub-claims at established tier."
     }
   ]
 }
