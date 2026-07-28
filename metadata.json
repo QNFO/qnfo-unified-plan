@@ -1,0 +1,33 @@
+{
+  "title": "The ℚ-vs-ℝ Question: Why Physical Law Requires Only the Rational Numbers",
+  "creators": [{"name": "QNFO Research Collective"}],
+  "description": "Defense of ℚ (rationals) as the physically correct base field over ℝ (reals). 4 sub-claims: Measurement Finitude (Bekenstein/Holevo), Observational Equivalence (epsilon-approximation), Ostrowski Applicability (conditional MF+OE to OTA), Cardinality Non-Constraint (computable reals suffice). 4 falsification conditions (F1-F4). Direct response to Adversary 1 Ostrowski red-team v2 objection.",
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "upload_type": "publication",
+  "publication_type": "report",
+  "version": "v2.0",
+  "publication_date": "2026-07-28",
+  "keywords": [
+    "rational numbers", "real numbers", "base field",
+    "measurement theory", "Ostrowski theorem", "adelic physics",
+    "Bekenstein bound", "constructive mathematics", "falsifiability"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.21638963",
+      "relation": "isNewVersionOf",
+      "resource_type": "publication"
+    },
+    {
+      "identifier": "10.5281/zenodo.21211007",
+      "relation": "cites",
+      "resource_type": "publication"
+    },
+    {
+      "identifier": "10.5281/zenodo.20754449",
+      "relation": "cites",
+      "resource_type": "publication"
+    }
+  ]
+}
