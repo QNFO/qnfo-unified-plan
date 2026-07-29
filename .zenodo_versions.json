@@ -65,7 +65,21 @@
       "status": "published-metadata-only",
       "doi": "10.5281/zenodo.21664651",
       "deposit_id": 21664651,
-      "note": "Phase 4: Metadata published (DOI 10.5281/zenodo.21664651). v5.0 PDF upload pending — Zenodo file API intermittent 400 errors. Files on GitHub (commit 9eb204c, tag v0.6-phase4)."
+      "note": "Phase 4: Metadata published (DOI 10.5281/zenodo.21664651). v5.0 PDF inherited from v4.0. New version draft 21665233 created with fresh file set ready for upload when Zenodo file API recovers. Files available on GitHub Release v0.6-phase4: https://github.com/QNFO/qnfo-unified-plan/releases/tag/v0.6-phase4"
+    },
+    {
+      "doi": null,
+      "deposit_id": 21665233,
+      "tag": "v0.6-phase4",
+      "files": [
+        "qnr-justification-memo-v5.0.pdf",
+        "qnr-justification-memo.md",
+        "gr-regge-q-construction.md",
+        "PROVENANCE-BUNDLE.zip"
+      ],
+      "published_at": null,
+      "status": "draft-ready",
+      "note": "Draft deposit 21665233 — inherited files deleted, 0 files, metadata set, ready for PUT upload + publish. Blocked by Zenodo file API HTTP 400 server outage (2026-07-29). Retry: python _zenodo_final.py (upload then publish)."
     }
   ]
 }
