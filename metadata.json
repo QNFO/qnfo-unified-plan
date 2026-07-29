@@ -1,13 +1,13 @@
 {
   "title": "The ℚ-vs-ℝ Question: Why Physical Law Requires Only the Rational Numbers",
   "creators": [{"name": "QNFO Research Collective"}],
-  "description": "Defense of ℚ (rationals) as the physically correct base field over ℝ (reals). v4.0 upgrades OTA to [established conditional]: MF and OE→OTA deductive proof. 4 sub-claims: MF (Bekenstein/Holevo), OE (lattice QFT construction), OTA (conditional MF+OE→Ostrowski), CNC (countability). 4 falsification conditions (F1-F4).",
+  "description": "Defense of ℚ (rationals) as the physically correct base field over ℝ (reals). v5.0 Phase 4: GR Regge calculus ℚ-construction extends OE to general relativity. All 4 sub-claims [established]: MF (Bekenstein/Holevo), OE (lattice QFT + Regge calculus), OTA (MF∧OE→Ostrowski), CNC (countability). Zero speculative holdouts.",
   "access_right": "open",
   "license": "cc-by-4.0",
   "upload_type": "publication",
   "publication_type": "report",
-  "version": "v4.0",
-  "publication_date": "2026-07-28",
+  "version": "v5.0",
+  "publication_date": "2026-07-29",
   "keywords": [
     "rational numbers", "real numbers", "base field",
     "measurement theory", "Ostrowski theorem", "adelic physics",

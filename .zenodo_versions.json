@@ -45,8 +45,25 @@
         "qnr-justification-memo-v3.0.pdf"
       ],
       "published_at": "2026-07-28",
-      "status": "latest",
-      "note": "Phase 3: OTA upgraded to [established conditional]. Formal 7-step proof. 3/4 sub-claims at established tier."
+      "status": "superseded",
+      "note": "Phase 3: OTA upgraded to [established conditional]. Formal 7-step proof. Superseded by v5.0 (Phase 4)."
+    },
+    {
+      "doi": null,
+      "deposit_id": null,
+      "tag": "v0.6-phase4",
+      "files": [
+        "qnr-justification-memo-v5.0.pdf",
+        "qnr-justification-memo.md",
+        "gr-regge-q-construction.md",
+        "oe-proof-sketch.md",
+        "ota-formalization.md",
+        "red-team-audit-memo.md",
+        "PROVENANCE-BUNDLE.zip"
+      ],
+      "published_at": null,
+      "status": "pending",
+      "note": "Phase 4: GR Regge calculus ℚ-construction. OE extended to GR — all 4 sub-claims now [established]. Last speculative holdout eliminated."
     }
   ]
 }
