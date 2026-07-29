@@ -61,9 +61,11 @@
         "red-team-audit-memo.md",
         "PROVENANCE-BUNDLE.zip"
       ],
-      "published_at": null,
-      "status": "pending",
-      "note": "Phase 4: GR Regge calculus ℚ-construction. OE extended to GR — all 4 sub-claims now [established]. Last speculative holdout eliminated."
+      "published_at": "2026-07-29",
+      "status": "published-metadata-only",
+      "doi": "10.5281/zenodo.21664651",
+      "deposit_id": 21664651,
+      "note": "Phase 4: Metadata published (DOI 10.5281/zenodo.21664651). v5.0 PDF upload pending — Zenodo file API intermittent 400 errors. Files on GitHub (commit 9eb204c, tag v0.6-phase4)."
     }
   ]
 }
