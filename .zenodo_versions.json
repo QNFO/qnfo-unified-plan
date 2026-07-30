@@ -2,84 +2,11 @@
   "concept_doi": "10.5281/zenodo.21638962",
   "project": "qnfo-unified-plan",
   "versions": [
-    {
-      "doi": "10.5281/zenodo.21638963",
-      "deposit_id": 21638963,
-      "tag": "v0.1-phase0",
-      "files": ["paper.pdf"],
-      "published_at": "2026-07-28",
-      "status": "superseded",
-      "note": "Initial publish — INCOMPLETE (only paper.pdf). Superseded by v2.0."
-    },
-    {
-      "doi": "10.5281/zenodo.21639059",
-      "deposit_id": 21639059,
-      "tag": "v0.2-phase4",
-      "files": ["qnr-justification-memo-v1.0.pdf", "PROVENANCE-BUNDLE.zip", "qnr-justification-memo.md", "red-team-audit-memo.md", "paper.pdf"],
-      "published_at": "2026-07-28",
-      "status": "superseded",
-      "note": "Complete publish with all source files + bundle + audit."
-    },
-    {
-      "doi": "10.5281/zenodo.21647251",
-      "deposit_id": 21647251,
-      "tag": "v0.3-phase2.1",
-      "files": ["qnr-justification-memo-v3.0.pdf", "PROVENANCE-BUNDLE.zip", "qnr-justification-memo.md", "oe-proof-sketch.md", "red-team-audit-memo.md", "qnr-justification-memo-v1.0.pdf", "paper.pdf"],
-      "published_at": "2026-07-28",
-      "status": "superseded",
-      "note": "Phase 2.1: OE upgraded to [established] for lattice QFT. Added proof sketch."
-    },
-    {
-      "doi": "10.5281/zenodo.21648034",
-      "deposit_id": 21648034,
-      "tag": "v0.4-phase3",
-      "files": [
-        "qnr-justification-memo-v4.0.pdf",
-        "PROVENANCE-BUNDLE.zip",
-        "qnr-justification-memo.md",
-        "oe-proof-sketch.md",
-        "ota-formalization.md",
-        "red-team-audit-memo.md",
-        "qnr-justification-memo-v1.0.pdf",
-        "paper.pdf",
-        "qnr-justification-memo-v3.0.pdf"
-      ],
-      "published_at": "2026-07-28",
-      "status": "superseded",
-      "note": "Phase 3: OTA upgraded to [established conditional]. Formal 7-step proof. Superseded by v5.0 (Phase 4)."
-    },
-    {
-      "doi": null,
-      "deposit_id": null,
-      "tag": "v0.6-phase4",
-      "files": [
-        "qnr-justification-memo-v5.0.pdf",
-        "qnr-justification-memo.md",
-        "gr-regge-q-construction.md",
-        "oe-proof-sketch.md",
-        "ota-formalization.md",
-        "red-team-audit-memo.md",
-        "PROVENANCE-BUNDLE.zip"
-      ],
-      "published_at": "2026-07-29",
-      "status": "published-metadata-only",
-      "doi": "10.5281/zenodo.21664651",
-      "deposit_id": 21664651,
-      "note": "Phase 4: Metadata published (DOI 10.5281/zenodo.21664651). v5.0 PDF inherited from v4.0. New version draft 21665233 created with fresh file set ready for upload when Zenodo file API recovers. Files available on GitHub Release v0.6-phase4: https://github.com/QNFO/qnfo-unified-plan/releases/tag/v0.6-phase4"
-    },
-    {
-      "doi": null,
-      "deposit_id": 21665233,
-      "tag": "v0.6-phase4",
-      "files": [
-        "qnr-justification-memo-v5.0.pdf",
-        "qnr-justification-memo.md",
-        "gr-regge-q-construction.md",
-        "PROVENANCE-BUNDLE.zip"
-      ],
-      "published_at": null,
-      "status": "draft-ready",
-      "note": "Draft deposit 21665233 — inherited files deleted, 0 files, metadata set, ready for PUT upload + publish. Blocked by Zenodo file API HTTP 400 server outage (2026-07-29). Retry: python _zenodo_final.py (upload then publish)."
-    }
+    {"doi": "10.5281/zenodo.21638963", "deposit_id": 21638963, "tag": "v0.1-phase0", "files": ["paper.pdf"], "published_at": "2026-07-28", "status": "superseded"},
+    {"doi": "10.5281/zenodo.21639059", "deposit_id": 21639059, "tag": "v0.2-phase4", "files": ["qnr-justification-memo-v1.0.pdf","PROVENANCE-BUNDLE.zip","qnr-justification-memo.md","red-team-audit-memo.md","paper.pdf"], "published_at": "2026-07-28", "status": "superseded"},
+    {"doi": "10.5281/zenodo.21647251", "deposit_id": 21647251, "tag": "v0.3-phase2.1", "published_at": "2026-07-28", "status": "superseded"},
+    {"doi": "10.5281/zenodo.21648034", "deposit_id": 21648034, "tag": "v0.4-phase3", "published_at": "2026-07-28", "status": "superseded"},
+    {"doi": "10.5281/zenodo.21664651", "deposit_id": 21664651, "tag": "v0.6-phase4", "published_at": "2026-07-29", "status": "published-metadata-only"},
+    {"doi": null, "deposit_id": 21698012, "tag": "v0.7-phase5", "files": ["qnr-justification-memo-v5.0.pdf","qnr-justification-memo.md","gr-regge-q-construction.md"], "published_at": null, "status": "draft-ready", "note": "Draft deposit 21698012 — metadata set, files deleted from inherited, fresh v5.0 files ready for PUT. Zenodo file API returned 405 (2026-07-30). R2 sync completed (qnfo-projects/qnfo-unified-plan/)."}
   ]
 }
