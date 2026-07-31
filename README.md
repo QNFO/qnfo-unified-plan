@@ -1,43 +1,19 @@
-# QNFO Unified Plan — Tier 0: ℚ vs ℝ
+# QNFO Unified Plan
 
-**Status:** Phase 0 — Project Initialization
-**Branch:** `feature/phase0-scaffold`
-**Created:** 2026-07-28
-**Programme:** Unified QNFO Research
+**The ℚ-vs-ℝ research program** — Coordinated plan across all QNFO/QWAV projects with unified ℚ/ℝ prioritization.
 
----
+**Status:** Published (Zenodo DOI 10.5281/zenodo.21698012) | **Phase 4:** COMPLETE | **Genre:** Epistemic (A)
 
-## What This Is
-
-The ℚ-vs-ℝ project addresses the deepest unexamined premise of the QNFO
-physics programme: **does the physical universe fundamentally operate over
-the rational numbers (ℚ) or the real numbers (ℝ)?**
-
-The Adelic Physics Program, the Ostrowski Programme, Hensel Codes, the
-ultrametric foundation, and the Silent Radix synthesis ALL assume — implicitly
-or explicitly — that ℚ is the correct base field, that ℝ is merely the
-Archimedean ("∞-place") completion, and that physics is fundamentally adelic
-(p-adic + Archimedean). This assumption has never been systematically
-defended against the objection: *"But measurements yield real numbers."*
-
-This project provides that defense — or, if the evidence demands, corrects
-the assumption.
+## Sub-Claim Status
+| Claim | Status |
+|:------|:-------|
+| MF (Measurement Finitude) | [established] |
+| OE (Observational Equivalence) | [established] |
+| OTA (Ostrowski Applicability) | [established conditional] |
+| CNC (Cardinality Non-Constraint) | [established] |
 
 ## Quick Start
-
-1. Read `PROJECT-PLAN.md` for the full charter, WBS, and core claim
-2. Read `artifacts/` for due diligence, literature reviews, and gate memos
-3. Read `docs/` for source documents and prior work
-4. Read `notebooks/` for working notes and calculations
-5. Read `releases/` for versioned publication bundles
-
-## Core Claim (Preview)
-
-Physical laws formulated over ℚ (rationals) are observationally
-indistinguishable from laws formulated over ℝ (reals) for all finite-precision
-measurements, making ℝ a mathematical convenience — a limit construction —
-rather than a physical necessity.
-
-## License
-
-QNFO Unified License Agreement (QNFO-ULA): https://legal.qnfo.org/
+- **Plan:** `PROJECT-PLAN.md`
+- **Phase 4:** `artifacts/structured-forecast-protocol-v2.md` — Meta Phase 4 with component ranking, vulnerability assessment, QWAV-QNFO bridge, meta Stage 9-10
+- **Consilience Gate:** `artifacts/consilience-gate.md`
+- **Red Team:** `artifacts/red-team-audit-memo.md`
